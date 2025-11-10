@@ -8,7 +8,7 @@
   <a href="https://www.meisterpod.me/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meisterpod.me">
   </a>
-  <a href="https://www.linkedin.com/in/papaomar-diop">
+  <a href="https://www.linkedin.com/in/papa-omar-diop-ba3403163/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
 </p>
