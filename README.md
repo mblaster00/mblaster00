@@ -64,7 +64,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#omar-tech">
-        <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" />
+        <img src="./img/aws-original.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
