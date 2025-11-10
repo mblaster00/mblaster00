@@ -88,9 +88,3 @@
 > System Design • Cloud Infrastructure • MLOps • Agentic AI • Backend Architecture • Workflow Automation  
 
 I love solving complex problems where **data, cloud, and intelligence** intersect — from building robust APIs to integrating AI agents into scalable infrastructures.
-
----
-
-<h2 align="left">📊 GitHub Activity</h2>
-
-> Some open-source and learning stats over time.
