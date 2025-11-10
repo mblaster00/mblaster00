@@ -78,7 +78,7 @@
       <a href="#omar-tech" >
         <img src="./img/spark-original.png" width="48" height="48" alt="Spark" />
       </a>
-      <br>Spark
+      <br>Apache Spark
     </td>
   </tr>
 </table>
