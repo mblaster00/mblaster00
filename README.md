@@ -2,13 +2,13 @@
 <h3 align="left">Software & AI Engineer | Building Scalable, Cloud-Native, and Intelligent Systems</h3>
 
 <p align="left">
-  <a href="[https://github.com/omardiop](https://github.com/mblaster00)">
+  <a href="https://github.com/omardiop">
     <img src="https://komarev.com/ghpvc/?username=omardiop" alt="page views" />
   </a>
   <a href="https://www.meisterpod.me/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meisterpod.me">
   </a>
-  <a href="[https://www.linkedin.com/in/papaomar-diop](https://www.linkedin.com/in/papa-omar-diop-ba3403163/)">
+  <a href="https://www.linkedin.com/in/papaomar-diop">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
 </p>
