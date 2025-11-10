@@ -38,7 +38,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#omar-tech">
-        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+        <img src="./img/java-original.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#omar-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/scala-original.svg" width="48" height="48" alt="Scala" />
       </a>
       <br>JavaScript
     </td>
