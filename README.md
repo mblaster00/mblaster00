@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#omar-tech">
-        <img src="./img/scala-original.svg" width="48" height="48" alt="Scala" />
+        <img src="./img/scala-original.png" width="48" height="48" alt="Scala" />
       </a>
       <br>JavaScript
     </td>
