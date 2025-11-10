@@ -76,9 +76,9 @@
     </td>
     <td align="center" width="96">
       <a href="#omar-tech" >
-        <img src="./img/terraform-original.png" width="48" height="48" alt="Terraform" />
+        <img src="./img/spark-original.png" width="48" height="48" alt="Spark" />
       </a>
-      <br>Terraform
+      <br>Spark
     </td>
   </tr>
 </table>
