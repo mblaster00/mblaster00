@@ -18,7 +18,6 @@
 - ☁️ &nbsp;Cloud-native mindset: **GCP**, **AWS**, **Docker**, **Kubernetes**, **Terraform**.
 - 🧠 &nbsp;Love designing backend architectures that **learn, adapt, and evolve**.
 - ✍️ &nbsp;I share my thoughts on **AI systems, cloud architecture, and automation**.
-- 🌐 &nbsp;More about me on [meisterpod](https://www.meisterpod.me).
 
 <br>
 
