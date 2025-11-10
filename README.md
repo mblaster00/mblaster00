@@ -16,17 +16,13 @@
   </a>
 </p>
 
-<a href="#omar-title">
-  <img src="https://raw.githubusercontent.com/omardiop/github-stats-transparent/output/generated/overview.svg" alt="omar-diop" align="right" />
-</a>
-
 - 🏦 &nbsp;Previously worked in **Fintech**, building scalable backend and AI-driven systems.
 - 🤖 &nbsp;Currently exploring **Agentic AI**, **workflow automation**, and **infrastructure intelligence**.
 - ☁️ &nbsp;Cloud-native mindset: **GCP**, **AWS**, **Docker**, **Kubernetes**, **Terraform**.
 - 🧠 &nbsp;Love designing backend architectures that **learn, adapt, and evolve**.
 - ✍️ &nbsp;I share my thoughts on **AI systems, cloud architecture, and automation**.
 - 💬 &nbsp;Let’s connect on [LinkedIn] or discuss projects through [issues page].
-- 🌐 &nbsp;More about me on [Meisterpod](https://www.meisterpod.me).
+- 🌐 &nbsp;More about me on [meisterpod](https://www.meisterpod.me).
 
 <br>
 
