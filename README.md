@@ -2,7 +2,7 @@
 <h3 align="left">Software & AI Engineer | Building Scalable, Cloud-Native, and Intelligent Systems</h3>
 
 <p align="left">
-  <a href="https://github.com/omardiop">
+  <a href="https://github.com/mblaster00">
     <img src="https://komarev.com/ghpvc/?username=omardiop" alt="page views" />
   </a>
   <a href="https://www.meisterpod.me/">
