@@ -1,4 +1,4 @@
-<h1 align="left" id="omar-title">👋 Hey there, I'm Meisterpod</h1>
+<h1 align="left" id="omar-title">👋 Hey there, I'm Omar</h1>
 <h3 align="left">Software & AI Engineer | Building Scalable, Cloud-Native, and Intelligent Systems</h3>
 
 <p align="left">
