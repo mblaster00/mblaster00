@@ -76,9 +76,9 @@
     </td>
     <td align="center" width="96">
       <a href="#omar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="48" height="48" alt="LangChain" />
+        <img src="./img/terraform-original.png" width="48" height="48" alt="Terraform" />
       </a>
-      <br>LangChain
+      <br>Terraform
     </td>
   </tr>
 </table>
