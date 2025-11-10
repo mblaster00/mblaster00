@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="left" id="omar-title">👋 Hey there, I'm Meisterpod</h1>
+<h3 align="left">Software & AI Engineer | Building Scalable, Cloud-Native, and Intelligent Systems</h3>
 
-<!--
-**mblaster00/mblaster00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="[https://github.com/omardiop](https://github.com/mblaster00)">
+    <img src="https://komarev.com/ghpvc/?username=omardiop" alt="page views" />
+  </a>
+  <a href="https://www.meisterpod.me/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meisterpod.me">
+  </a>
+  <a href="[https://www.linkedin.com/in/papaomar-diop](https://www.linkedin.com/in/papa-omar-diop-ba3403163/)">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  </a>
+  <a href="[https://github.com/omardiop?tab=followers](https://github.com/mblaster00?tab=followers)">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/omardiop?style=flat&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<a href="#omar-title">
+  <img src="https://raw.githubusercontent.com/omardiop/github-stats-transparent/output/generated/overview.svg" alt="omar-diop" align="right" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 &nbsp;Previously worked in **Fintech**, building scalable backend and AI-driven systems.
+- 🤖 &nbsp;Currently exploring **Agentic AI**, **workflow automation**, and **infrastructure intelligence**.
+- ☁️ &nbsp;Cloud-native mindset: **GCP**, **AWS**, **Docker**, **Kubernetes**, **Terraform**.
+- 🧠 &nbsp;Love designing backend architectures that **learn, adapt, and evolve**.
+- ✍️ &nbsp;I share my thoughts on **AI systems, cloud architecture, and automation**.
+- 💬 &nbsp;Let’s connect on [LinkedIn] or discuss projects through [issues page].
+- 🌐 &nbsp;More about me on [Meisterpod](https://www.meisterpod.me).
+
+<br>
+
+<h2 align="left" id="omar-tech">🧩 Favorite Tech Stack</h2>
+
+> Tools, languages, and frameworks I enjoy working with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#omar-tech">
+        <img src="./img/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech">
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center"  width="96">
+      <a href="#omar-tech">
+        <img src="./img/aws-original.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech" >
+        <img src="./img/gcp-original.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <a href="#omar-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="48" height="48" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">⚙️ Areas of Focus</h2>
+
+> System Design • Cloud Infrastructure • MLOps • Agentic AI • Backend Architecture • Workflow Automation  
+
+I love solving complex problems where **data, cloud, and intelligence** intersect — from building robust APIs to integrating AI agents into scalable infrastructures.
+
+---
+
+<h2 align="left">📊 GitHub Activity</h2>
+
+> Some open-source and learning stats over time.
