@@ -11,9 +11,6 @@
   <a href="[https://www.linkedin.com/in/papaomar-diop](https://www.linkedin.com/in/papa-omar-diop-ba3403163/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
-  <a href="[https://github.com/omardiop?tab=followers](https://github.com/mblaster00?tab=followers)">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/omardiop?style=flat&logo=github">
-  </a>
 </p>
 
 - 🏦 &nbsp;Previously worked in **Fintech**, building scalable backend and AI-driven systems.
