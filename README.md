@@ -80,6 +80,6 @@
 
 <h2 align="left">⚙️ Areas of Focus</h2>
 
-> System Design • Cloud Infrastructure • MLOps • Agentic AI • Backend Architecture • Workflow Automation  
+> Mathematics • System Design • Cloud Infrastructure • MLOps • Agentic AI • Backend Architecture • Workflow Automation  
 
 I love solving complex problems where **data, cloud, and intelligence** intersect from building robust APIs to integrating AI agents into scalable infrastructures.
