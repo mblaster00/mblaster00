@@ -13,7 +13,7 @@
   </a>
 </p>
 
-- 🏦 &nbsp;Previously worked in fintech, healthcare, and regulated environments, building **scalable systems**, **cloud platforms** & **AI-Driven workflows**.
+- 🏦 &nbsp;Previously worked in fintech, healthcare, and regulated environments, building **scalable systems** and **AI-Driven workflows**.
 - 🤖 &nbsp;Currently exploring **Agentic AI**, **workflow automation**, and **infrastructure intelligence**.
 - ☁️ &nbsp;Cloud-native mindset: **GCP**, **AWS**, **Docker**, **Kubernetes**, **Terraform**.
 - 🧠 &nbsp;Love designing backend architectures that **learn, adapt, and evolve**.
