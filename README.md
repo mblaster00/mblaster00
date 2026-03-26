@@ -1,5 +1,5 @@
 <h1 align="left" id="omar-title">👋 Hey there, I'm Omar</h1>
-<h3 align="left">Data & AI Engineer | SRE | Cloud & Kubernetes</h3>
+<h3 align="left">Data & AI Engineer | SRE | Cloud | Kubernetes</h3>
 
 <p align="left">
   <a href="https://github.com/mblaster00">
