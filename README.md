@@ -1,5 +1,5 @@
 <h1 align="left" id="omar-title">👋 Hey there, I'm Omar</h1>
-<h3 align="left">Software & AI Engineer | Building Scalable, Cloud-Native, and Intelligent Systems</h3>
+<h3 align="left">Cloud, Data & AI Engineer | Building Scalable Systems & Intelligent Platforms</h3>
 
 <p align="left">
   <a href="https://github.com/mblaster00">
