@@ -44,9 +44,7 @@ Cloud Data Engineer with experience designing scalable **data platforms**, **clo
 
 > Tools, languages, and frameworks I enjoy working with.
 
-<table>
-...
-</table>
+<table> <tr> <td align="center" width="96"> <a href="#omar-tech"> <img src="./img/java-original.png" width="48" height="48" alt="Java" /> </a> <br>Java </td> <td align="center" width="96"> <a href="#omar-tech"> <img src="./img/python-original.svg" width="48" height="48" alt="Python" /> </a> <br>Python </td> <td align="center" width="96"> <a href="#omar-tech"> <img src="./img/scala-original.png" width="48" height="48" alt="Scala" /> </a> <br>Scala </td> <td align="center" width="96"> <a href="#omar-tech"> <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /> </a> <br>Docker </td> <td align="center" width="96"> <a href="#omar-tech" > <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /> </a> <br>Kubernetes </td> <td align="center" width="96"> <a href="#omar-tech"> <img src="./img/aws-original.png" width="48" height="48" alt="AWS" /> </a> <br>AWS </td> <td align="center" width="96"> <a href="#omar-tech" > <img src="./img/gcp-original.svg" width="48" height="48" alt="GCP" /> </a> <br>GCP </td> <td align="center" width="96"> <a href="#omar-tech" > <img src="./img/spark-original.png" width="48" height="48" alt="Spark" /> </a> <br>Spark </td> </tr> </table>
 
 ---
 
