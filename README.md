@@ -1,5 +1,5 @@
 <h1 align="left" id="omar-title">👋 Hey there, I'm Omar</h1>
-<h3 align="left">Cloud & AI Engineer | Data Platform | DevOps</h3>
+<h3 align="left">AI & Data Platform Engineer | Cloud | DevOps | Distributed Systems</h3>
 
 <p align="left">
   <a href="https://github.com/mblaster00">
@@ -13,15 +13,32 @@
   </a>
 </p>
 
-- 🏦 &nbsp;Previously worked in fintech, healthcare, and regulated environments.
-- 🤖 &nbsp;Currently exploring **Agentic AI**, **workflow automation**, and **infrastructure intelligence**.
-- ☁️ &nbsp;Cloud-native mindset: **GCP**, **AWS**, **Docker**, **Kubernetes**, **Terraform**.
-- 🧠 &nbsp;Love designing backend architectures that **learn, adapt, and evolve**.
-- ✍️ &nbsp;I share my thoughts on **AI systems, cloud architecture, and automation**.
+---
 
-<br>
+## 👨‍💻 About Me
 
-<h2 align="left" id="omar-tech">🧩 Favorite Tech Stack</h2>
+- 🏦 Previously worked in fintech, healthcare, and regulated environments  
+- 🤖 Currently exploring **Agentic AI**, **workflow automation**, and **infrastructure intelligence**  
+- ☁️ Cloud-native mindset: **AWS**, **GCP**, **Docker**, **Kubernetes**, **Terraform**  
+- 🧠 I design scalable cloud architectures and AI-powered systems  
+- ⚙️ Strong focus on **automation, reliability and distributed systems**  
+- ✍️ I share thoughts on **AI systems, cloud architecture, and automation**  
+
+---
+
+## 🚀 What I Can Help With
+
+- Designing scalable data platforms  
+- Building AI-powered automation systems  
+- Cloud architecture (AWS / GCP)  
+- DevOps and Infrastructure automation  
+- Data pipelines & distributed processing  
+- Agentic AI and RAG architectures  
+- Platform reliability & observability  
+
+---
+
+## 🧩 Favorite Tech Stack
 
 > Tools, languages, and frameworks I enjoy working with.
 
@@ -78,8 +95,44 @@
   </tr>
 </table>
 
-<h2 align="left">⚙️ Areas of Focus</h2>
+---
+
+## ⚙️ Areas of Focus
 
 > Mathematics • System Design • Cloud Infrastructure • MLOps • Site Reliability • Backend Architecture • Workflow Automation  
 
-I love solving complex problems where **data, cloud, and intelligence** intersect from building robust APIs to integrating AI agents into scalable infrastructures.
+I enjoy solving complex engineering problems where **data, cloud, and intelligence intersect** — from building distributed systems to designing AI-powered platforms and scalable cloud infrastructures.
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Agent Platform
+Agent-based architecture using LangChain, RAG, and vector databases.
+
+### ☁️ Cloud Data Platform
+Scalable data pipeline architecture using Kubernetes, Terraform and Spark.
+
+### 📊 Observability Platform
+Monitoring and SRE-focused infrastructure using Prometheus, Grafana and automation.
+
+---
+
+## 💼 Open to Freelance Opportunities
+
+I'm currently available for freelance missions involving:
+
+• Data Engineering  
+• Cloud Architecture  
+• AI / LLM Systems  
+• DevOps & Platform Engineering  
+
+Remote-friendly | Europe-based | English & French
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/papa-omar-diop-ba3403163/  
+- Website: https://www.meisterpod.me  
+- GitHub: https://github.com/mblaster00
