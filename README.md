@@ -1,5 +1,5 @@
 <h1 align="left" id="omar-title">👋 Hey there, I'm Omar</h1>
-<h3 align="left">AI & Data Platform Engineer | Cloud | DevOps | Distributed Systems</h3>
+<h3 align="left">Cloud & AI Engineer | Data Platform | DevOps</h3>
 
 <p align="left">
   <a href="https://github.com/mblaster00">
