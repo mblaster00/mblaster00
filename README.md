@@ -118,9 +118,9 @@ Monitoring and SRE-focused infrastructure using Prometheus, Grafana and automati
 
 ---
 
-## 💼 Open to Freelance Opportunities
+## 💼 Open to Opportunities
 
-I'm currently available for freelance missions involving:
+I'm currently available for missions involving:
 
 • Data Engineering  
 • Cloud Architecture  
