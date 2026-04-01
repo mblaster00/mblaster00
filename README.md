@@ -134,4 +134,3 @@ Remote-friendly | Europe-based | English & French
 ## 📫 Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/papa-omar-diop-ba3403163/  
-- Website: https://www.meisterpod.me  
