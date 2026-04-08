@@ -71,7 +71,7 @@ Monitoring infrastructure using Prometheus, Grafana and automation.
 
 ## 💼 Open to Opportunities
 
-I'm currently available for missions involving:
+I'm available for missions involving:
 
 • Cloud Data Engineering  
 • Data Platform Architecture  
