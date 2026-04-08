@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-Cloud Data Engineer with experience designing scalable **data platforms**, **cloud-native pipelines**, and **automation-driven infrastructures**.
+Data Engineer with experience designing scalable **data platforms**, **cloud-native pipelines**, and **automation-driven infrastructures**.
 
 - 🏦 Experience in fintech, healthcare, and regulated environments  
 - ☁️ Building **cloud-native data platforms** on AWS & GCP  
