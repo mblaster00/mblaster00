@@ -52,7 +52,7 @@ Data Engineer with experience designing scalable **data platforms**, **cloud-nat
 
 > Data Engineering • Cloud Architecture • Distributed Systems • Data Platforms • Observability • Workflow Automation  
 
-I enjoy solving complex engineering problems where **data, cloud, and intelligence intersect** — from building distributed data pipelines to designing scalable cloud-native data platforms.
+I enjoy solving complex engineering problems where **data, cloud, and intelligence intersect** from building distributed data pipelines to designing scalable cloud-native data platforms.
 
 ---
 
