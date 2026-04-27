@@ -34,7 +34,6 @@ Data Engineer with experience designing scalable **data platforms**, **cloud-nat
 - Building cloud-native data pipelines  
 - Data ingestion & transformation pipelines  
 - Cloud architecture (AWS / GCP)  
-- DevOps automation for data platforms  
 - AI-powered data workflows (RAG / LLM integration)  
 - Observability & reliability for data systems  
 
@@ -77,7 +76,6 @@ I'm available for missions involving:
 • Data Platform Architecture  
 • Data Pipelines & ETL  
 • AI / LLM Data Systems  
-• DevOps for Data Platforms  
 
 Remote-friendly | Europe-based | English & French
 
