@@ -74,7 +74,7 @@ I'm available for missions involving:
 
 • Cloud Data Engineering  
 • Data Platform Architecture  
-• Data Pipelines & ETL  
+• Site Reliability Engineering  
 • AI / LLM Data Systems  
 
 Remote-friendly | Europe-based | English & French
