@@ -2,9 +2,9 @@
 <h3 align="left">Data Engineer | AI Engineer</h3>
 
 <p align="left">
-  <a href="https://github.com/mblaster00">
+  <!--<a href="https://github.com/mblaster00">
     <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-  </a>
+  </a>-->
   <a href="https://www.meisterpod.me/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.meisterpod.me">
   </a>
