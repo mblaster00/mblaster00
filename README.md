@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/papa-omar-diop-ba3403163/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
   </a>
+  <a href="https://gitlab.com/meisterpod">
+    <img alt="GitLab" src="https://img.shields.io/static/v1?label=GitLab&message=Personal%20Projects&color=orange&logo=gitlab">
+  </a>
 </p>
 
 ---
@@ -35,7 +38,9 @@ Data Engineer with experience designing scalable **data platforms**, **cloud-nat
 - Data ingestion & transformation pipelines  
 - Cloud architecture (AWS / GCP)  
 - AI-powered data workflows (RAG / LLM integration)  
-- Observability & reliability for data systems  
+- Observability & reliability for data systems
+
+👉 More personal projects on [my GitLab](https://gitlab.com/meisterpod)
 
 ---
 
